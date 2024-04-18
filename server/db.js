@@ -4,7 +4,8 @@ import fs from 'fs'
 export const db = mysql.createConnection({
     host: "harry-202251053.mysql.database.azure.com",
     user: "Harshit",
-    password: "Touche@9369",
+    // contact me for password below:
+    password: "",
     database: "recipes",
     port: 3306,
     ssl: {
